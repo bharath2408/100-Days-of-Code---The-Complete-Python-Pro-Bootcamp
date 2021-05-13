@@ -38,8 +38,8 @@
 2. Don't use python keywords for variable
 3. A variable along with an keyword is suitable(eg: isname or is_name)
 
-**Keywords**                                                      
-|----------|:--------:|:--------:|
+|**Keywords**                    |                                                      
+|--------------------------------|
 | False    | await    | else     |
 | import   | pass     | None     |
 | break    | except   | in       |
