@@ -39,7 +39,7 @@
 3. A variable along with an keyword is suitable(eg: isname or is_name)
 
 |**Keywords** |          |          |                                                      
-|-------------|:--------:|---------:|   
+|-------------|:---------|:---------|   
 | False       | await    | else     |
 | import      | pass     | None     |
 | break       | except   | in       |
