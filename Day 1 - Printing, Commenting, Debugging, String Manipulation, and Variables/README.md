@@ -4,19 +4,19 @@
 
 
 > Printing
-```sh
+```python
     print("Day 1 - Python")
 ```
 > Commenting
-```sh
+```python
     #print("Day 1 - Python")
 ```
 > String Manipulation
-```sh
+```python
     print("Day 1 - Python" + "Github")
 ```
 > Input Function
-```sh
+```python
    print("git clone" + " " + input("Enter your repositories: "))
 ```
 > Python Variables
@@ -27,7 +27,7 @@
 - Now user input will stored in name(variable)
 - Print(name) now we see the ouput as user given input
 
-```sh
+```python
    name = input("what is your name: ")
    print(name)
 ```
@@ -38,7 +38,7 @@
 2. Don't use python keywords for variable eg(False, await, else, import, pass, None, break, except, in, raise, True, class, finally, is, return, and, continue, for, lambda, try, as, def, from, nonlocal, while, assert, del, global, not, with, async, elif, if, or, yield)
 3. A variable along with an keyword is suitable(eg: isname or is_name)
 
-```sh
+```python
 user_name = input("What is your name")
 length1 = len(name)
 print(length)
