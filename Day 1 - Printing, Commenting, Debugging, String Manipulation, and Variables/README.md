@@ -35,8 +35,16 @@
 
 - Rule for naming variables
 1. Make your code readable
-2. Don't use python keywords for variable eg(False, await, else, import, pass, None, break, except, in, raise, True, class, finally, is, return, and, continue, for, lambda, try, as, def, from, nonlocal, while, assert, del, global, not, with, async, elif, if, or, yield)
+2. Don't use python keywords for variable
 3. A variable along with an keyword is suitable(eg: isname or is_name)
+
+|Keywords|
+|--------|
+| False | await | else | import | pass | None | break | except |
+| in | raise | True | class | finally | is | return | and |
+| continue | for | lambda | try | as | def | from | nonlocal |
+| while | assert | del | global | not | with | async | elif |
+| if | or | yield |
 
 ```python
 user_name = input("What is your name")
